@@ -1,0 +1,33 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for category in site.project_category %}
+  {% assign title_shown = false %}
+  {% for post in site.projects reversed %}  
+    {% if post.category != category[0] %}
+      {% continue %}
+    {% endif %}
+    
+    <!-- Display the category title -->
+    {% unless title_shown %}
+      <h2>{{ category[1].title }}</h2> <hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+
+    <!-- Display the project -->
+    {% if post.category == "research_projects"%}
+      <!-- Display research project -->
+      {% include archive-single.html %}
+    {% else %}
+      <!-- Display course projects -->
+      <li>{{post.title}} - [<a href="{{post.url}}">Project Summary</a>] </li>
+      <!-- <p>{{post.url}}</p> -->
+    {% endif %}
+  {% endfor %}
+{% endfor %}

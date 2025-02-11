@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "I just changed to see the modification by automatic reloading"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
