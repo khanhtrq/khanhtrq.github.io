@@ -13,7 +13,7 @@ name                     : &name "Quoc Khanh Tran"
 description              : &description "personal description"
 url                      : https://khanhtrq.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "khanhtrq/khanhtrq.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,8 +23,8 @@ author:
   avatar           : "profile_photo.jpg"
   name             : "Quoc Khanh Tran"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  employer         : "Red Brick University"
+  bio              : "B.Sc. student in Data Science and AI"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "khanh.tq190085@sis.hust.edu.vn" 
 
@@ -42,21 +42,21 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : khanhtrq
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  linkedin         : khanhtrq
+  goodreads        : khanhtq
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
