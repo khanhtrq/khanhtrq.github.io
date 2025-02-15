@@ -8,8 +8,9 @@ category: course_projects
 This project is the refinement of my Introduction to Data Science capstone project in Winter 2021 Semester.  
 
 ## Summary
-Global economy has been expanding rapidly in recent decades. According to World Bank, global Gross Domestic Product (GDP) in 2020 has more than tripled since 1990 [1]. Inspite of economic growth, mental health and well-being are emerging issues of modern life. In 2019, one in five adults in the US had received mental health treatment in the past 12 months [2]. World Happiness Report offers an alternative measurement to GDP by annually measuring and reporting countries happiness scores. To have a better understanding of the factors that contribute to happiness, the project focused on analyzing the correlation of countries happiness scores [3]-[5] with socioeconomic factors, such as education and environment. The data for socioeconomic factors were collected from The World Bank, 
-United Nations Development Programme (UNDP), World Health Organization (WHO), United Nations Office on Drugs and Crime (UNOCD). Using data collection, exploratory data analysis, and data visualization techniques, we found that happiness score correlates with GDP per capita, average years of schooling, life expectancy, carbon footprint emission, consumer price index, and air pollution.
+Global economy has been expanding rapidly in recent decades. According to World Bank, global Gross Domestic Product (GDP) in 2020 has more than tripled since 1990 [1]. Inspite of economic growth, mental health and well-being are emerging issues of modern life [2]. As an alternative to using GDP as a development indicator, the World Happiness Report provides an annual assessment of countries happiness scores. 
+
+To have a better understanding of the factors that contribute to happiness, the project focused on analyzing the correlation between countries happiness scores [3]-[5] and socioeconomic factors, such as education and environment. The data for socioeconomic factors were collected from The World Bank, United Nations Development Programme (UNDP), World Health Organization (WHO), and United Nations Office on Drugs and Crime (UNOCD). Using data collection, exploratory data analysis, and data visualization methods, we found that happiness score correlates with GDP per capita, average years of schooling, life expectancy, carbon footprint emission, consumer price index, and air pollution.
 
 
 ## Project Tasks and Knowledge Acquired
@@ -36,6 +37,8 @@ Network. https://worldhappiness.report/ed/2018/
 Solutions Network. https://worldhappiness.report/ed/2019/  
 
 <!-- The world has been developing in a fast pace. However, becoming richer does not always mean becoming happier. 
+
+In 2019, one in five adults in the US had received mental health treatment in the past 12 months [2]
 
 A survey of US Centers for Disease Control and Prevention shows that in 2019, one in five adults in the US had received mental health treatment in the past 12 months [2]
 

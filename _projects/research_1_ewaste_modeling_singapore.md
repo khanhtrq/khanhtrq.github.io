@@ -9,14 +9,14 @@ category: research_projects
 [[Paper Manuscript](/files/LCE_Ewaste_manuscript_final.pdf)] [[Presentation Slide](/files/Ewaste_Modeling_Presentation.pdf)]
 
 ## Context of the Research Project
-The research project was conducted at [Singapore Institute of Manufacturing Technology (SIMTech)](https://www.a-star.edu.sg/simtech) from February to June 2024. My research attachment was supported by Agency of Science, Technology, and Research (A\*STAR) Singapore with [Singapore International Pre-Graduate Award (SIPGA)](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga). Dr. Sun Yajuan is the project advisor. The project resulted with a publication titled *E-waste Collection and Recycling Behaviours: An Agent-Based Model for Intervention Assessment in Singapore* at [32nd CIRP Conference on Life Cycle Engineering (LCE 2025)](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=114765&ef_sel_menu=2241&eventID=291) at The University of Manchester, United Kingdom. 
+The research project was conducted at [Singapore Institute of Manufacturing Technology (SIMTech)](https://www.a-star.edu.sg/simtech) from February to June 2024. My research attachment was supported by Agency of Science, Technology, and Research (A\*STAR) Singapore with [Singapore International Pre-Graduate Award (SIPGA)](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga). Dr. Sun Yajuan is the project advisor. The project resulted with a publication titled *E-waste Collection and Recycling Behaviours: An Agent-Based Model for Intervention Assessment in Singapore* at [32nd CIRP Conference on Life Cycle Engineering (LCE 2025)](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=114765&ef_sel_menu=2241&eventID=291) at the University of Manchester, United Kingdom. 
 
 ## Summary
 With recent technological advancement, the number of electronic devices produced has been increasing. As a result, the generation of electronic waste (e-waste) has been increasing significantly, with a total amount of 62 million metric tons in 2022 globally [1]. Despite the economic value and environmental impact of e-waste [2], [3], it is reported that only 6% of 60,000 metric tons of e-waste generated each year in Singapore is recycled [4]. To address this problem, the research project aimed at developing an agent-based model for recycling interventions assessment and analysis. Two interventions strategies, namely Nearest Recycling Sites Assignment and Recycling Information Campaign, were proposed. The experiment results revealed the importance of convenience associated with proximity and knowledge dissemination, providing policymakers with insightful information for e-waste recycling promotion decisions.
 
 ## Contributions
 My contributions to the project are summarized as follows:
-- Conducting exploratory research on potential approaches for promoting e-waste recycling.  
+- Conducting exploratory research on potential approaches to promote e-waste recycling.  
 - Narrowing down research focus to e-waste collection modeling.
 - Surveying Singapore e-waste collection system and population.
 - Developing conceptual model for e-waste recycling behaviors and collection system.

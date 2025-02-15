@@ -1,5 +1,5 @@
 ---
-title: "Plasmodium Life Cycle Development Classification"
+title: "Multi-Domain Learning for Plasmodium Development Classification"
 excerpt: "[[Thesis](/files/Research_Thesis_Plasmodium_Multi_Domain_Learning.pdf)] [[Presentation Slide](/files/Plasmodium_Thesis_Presentation.pdf)] [[Github Code](https://github.com/khanhtrq/Plasmodium_Multi_Domain_Information_Fusion)]
         <br/> Plasmodium parasite life cycle development classification with Multi-Domain Information Fusion to tackle data imbalance.
         <br/><img src='/images/domain_fusion_illustration.png' width='400' style='height:auto;'>"
