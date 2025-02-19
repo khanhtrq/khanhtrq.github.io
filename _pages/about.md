@@ -11,7 +11,7 @@ I have recently completed my Bachelor's study in Data Science and Artificial Int
 
 At Computer Vision Lab, [The International Research Center for Artificial Intelligence (BK.AI)](https://bkai.ai/), SoICT, I am currently working as an undergraduate reserch student on a research project collaborated with two institutes of [French Armed Forces Health Services](https://www.defense.gouv.fr/sante). Previously, did five-month research attachment at [Singapore Institute of Manufactoring Technology (SIMTech)](https://www.a-star.edu.sg/simtech), supported by *Singapore International Pre-Graduate Award (SIPGA)*. 
 
-In addition to my interest in Computer Vision, such as Multi-Domain Learning, Lomain Adaptation, I am also fascinated about the interdisciplinary field of Artificial Intelligence, Data Science and Modeling with specific applications on sustainability.
+In addition to my interest in Computer Vision, such as Multi-Domain Learning, Domain Adaptation, I am also fascinated about the interdisciplinary field of Artificial Intelligence, Data Science and Modeling with specific applications on sustainability.
 
 Scholarships and Awards
 ======
