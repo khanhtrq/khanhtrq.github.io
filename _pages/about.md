@@ -13,10 +13,6 @@ At Computer Vision Lab, [The International Research Center for Artificial Intell
 
 In addition to my interest in Computer Vision, such as Multi-Domain Learning and Domain Adaptation, I am also fascinated by the interdisciplinary field of Artificial Intelligence, Data Science and Modeling with specific applications on sustainability.
 
-
-[Show my passion, attitute toward difficulties here!]  
-Growing up from a small town in poor area of Northern Vietnam, I was fortunate to be encouraged to persue my science journey at a young age. With my experience, I am aware that the long journey always begins with little courage to take the first step. I am open to new challenges as opportunities to develop.
-
 Scholarships and Awards
 ======
 *Singapore International Pre-Graduate Award (SIPGA)* (2023)  
