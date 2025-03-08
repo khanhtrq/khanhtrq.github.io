@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I have recently completed my Bachelor's study in Data Science and Artificial Intelligence at [School of Information and Communication Technology (SoICT)](https://soict.hust.edu.vn/en/), Hanoi University of Science and Technology (HUST), Vietnam. During my study, I had the opportunity to study one exchange semester at [OTH Regensburg](https://www.oth-regensburg.de/en/), Germany, with support from *Erasmus+ Programme*.
+I have recently completed my Bachelor's study in Data Science and Artificial Intelligence at [School of Information and Communication Technology (SoICT)](https://soict.hust.edu.vn/en/), Hanoi University of Science and Technology (HUST), Vietnam. HUST is ranked 451-500 in Computer Science and Information System by QS World University Rankings by Subject 2024. During my study, I had the opportunity to study one exchange semester at [OTH Regensburg](https://www.oth-regensburg.de/en/), Germany, with support from *Erasmus+ Programme*.
 
 At Computer Vision Lab, [The International Research Center for Artificial Intelligence (BK.AI)](https://bkai.ai/), SoICT, I am currently working as an undergraduate reserch student on a research project collaborated with two institutes of [French Armed Forces Health Services](https://www.defense.gouv.fr/sante). Previously, I did five-month research attachment at [Singapore Institute of Manufactoring Technology (SIMTech)](https://www.a-star.edu.sg/simtech), supported by *Singapore International Pre-Graduate Award (SIPGA)*. 
 
