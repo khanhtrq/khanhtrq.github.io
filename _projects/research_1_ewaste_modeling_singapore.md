@@ -23,7 +23,8 @@ My contributions to the project are summarized as follows:
 - Designing of experiment scenarios to promote e-waste recycling.
 - Conducting feasibility study for implementation of the e-waste conceptual model. 
 - Implementing simulation of conceptual model using GAMA Platform and Python.
-- Communicating research findings through presentation at SIMTech and conference paper writing, collaborated with Zhao Lan, PhD student at Nanyang Technological University.
+- Communicating research findings through presentation at SIMTech and conference paper writing, collaborated with Zhao Lan, PhD student at Nanyang Technological University.  
+- Presentation at 32nd CIRP Conference on Life Cycle Engineering 2025, the University of Manchester.
 
 ## References
 [1] B. Alves, ‘Global e-waste generation 2010-2022’, available at: https://www.statista.com/statistics/499891/projection-ewaste-generation-worldwide/, 2024.  
