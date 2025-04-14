@@ -1,6 +1,6 @@
 ---
 title: "E-waste Collection and Recycling Behaviours Modeling in Singapore"
-excerpt: "[[Paper Manuscript](/files/LCE_Ewaste_manuscript_final.pdf)] [[Presentation Slide](/files/Ewaste_Modeling_Presentation.pdf)]
+excerpt: "[[Paper Manuscript](/files/LCE_Ewaste_manuscript_final.pdf)] [[Presentation Slide](/files/LCE2025_Ewaste_Modeling_Presentation.pdf)]
             <br/>E-waste collection system and resident's recycling behaviours modeling for intervention assessment to promote recycling in Singapore. 
             <br/><img src='/images/ewaste_simulation_visualization.png' width='400' style='height:auto;'>"
 collection: projects
