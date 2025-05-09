@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[[Detailed CV](/files/CV_QuocKhanhTran_Feb2025.pdf)]     (Last updated: February 2025).
+[[Detailed CV](/files/CV_QuocKhanhTran.pdf)]     (Last updated: April 2025).
 ## Education 
 - B.Sc. Data Science, Hanoi University of Science and Technoloy, Vietnam (HUST) (09/2019 - 04/2025)  
 - Exchange Study, Ostbayerische Technische Hochschule (OTH) Regensburg, Germany  (03/2023 - 07/2023)  
