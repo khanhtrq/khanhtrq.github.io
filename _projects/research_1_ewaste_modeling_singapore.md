@@ -6,7 +6,7 @@ excerpt: "[[Paper Manuscript](/files/LCE_Ewaste_manuscript_final.pdf)] [[Present
 collection: projects
 category: research_projects
 ---
-[[Paper Manuscript](/files/LCE_Ewaste_manuscript_final.pdf)] [[Presentation Slide](/files/Ewaste_Modeling_Presentation.pdf)]
+[[Paper Manuscript](/files/LCE_Ewaste_manuscript_final.pdf)] [[LCE2025 Presentation Slide](/files/Ewaste_Modeling_Presentation.pdf)]
 
 ## Context of the Research Project
 The research project was conducted at [Singapore Institute of Manufacturing Technology (SIMTech)](https://www.a-star.edu.sg/simtech) from February to June 2024. My research attachment was supported by Agency of Science, Technology, and Research (A\*STAR) Singapore with [Singapore International Pre-Graduate Award (SIPGA)](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga). Dr. Sun Yajuan is the project advisor. The project resulted with a publication titled *E-waste Collection and Recycling Behaviours: An Agent-Based Model for Intervention Assessment in Singapore* at [32nd CIRP Conference on Life Cycle Engineering (LCE 2025)](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=114765&ef_sel_menu=2241&eventID=291) at the University of Manchester, United Kingdom. 
@@ -23,7 +23,7 @@ My contributions to the project are summarized as follows:
 - Designing of experiment scenarios to promote e-waste recycling.
 - Conducting feasibility study for implementation of the e-waste conceptual model. 
 - Implementing simulation of conceptual model using GAMA Platform and Python.
-- Communicating research findings through presentation at SIMTech and conference paper writing, collaborated with Zhao Lan, PhD student at Nanyang Technological University.  
+- Presentation at SIMTech and conference paper writing, collaborated with Zhao Lan, PhD student at Nanyang Technological University.  
 - Presentation at 32nd CIRP Conference on Life Cycle Engineering 2025, the University of Manchester.
 
 ## References
